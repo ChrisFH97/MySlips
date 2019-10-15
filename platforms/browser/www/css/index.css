@@ -1,0 +1,12 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background: #ffae00;
+}
+
+.container {
+    max-width: 100vw;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 0 2rem;
+}
