@@ -12,6 +12,7 @@ input[type=text] {
 }
 
 label{
+    /* background-color: #282828; */
     color: #ffffff;
     font-size: 1.3em;
     
@@ -28,8 +29,9 @@ input[type=button], input[type=submit], input[type=reset] {
 }
 
 .container {
+    background-color: #282828;
     max-width: 100vw;
     margin: 0 auto;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     padding: 0 2rem;
 }
